@@ -1,4 +1,4 @@
-# Patika-FinalProject
+# Patika Final Project
 
 Türk Telekom &amp; TRAI Veri Bilimi ve Analitiği Practicum
 
@@ -35,4 +35,4 @@ Mutluluk Sıralaması en çok azalan ve artan ülkeler
 Esad Boran
 
 
-
+# Patika.Dev
