@@ -7,7 +7,7 @@ Türk Telekom &amp; TRAI Veri Bilimi ve Analitiği Practicum
 Bu proje, 1.6 milyon trafik kazalarının verilerini kullanarak trafik kazalarının nedenlerini ve dünyadadi mutluluk sıralamasını analiz etmek için tasarlanmıştır.
 
 
-###Gereksinimler
+### Gereksinimler
 
 Bu projenin çalıştırılması için aşağıdaki yazılımların yüklü olması gerekir:
 
@@ -16,13 +16,13 @@ Pandas
 Numpy
 Matplotlib
 
-###Kullanım
+### Kullanım
 
 Bu projeyi bilgisayarınıza indirin ve dosyaları açın.
 Jupyter Notebook dosyalarını indirip jupyter lab içerisinde çalıştırabilirsiniz . 
 
 
-###Örnek Analizler
+### Örnek Analizler
 
 Trafik Kazalarının Haritası
 Trafik kazalarının en sık nedenlerini gösterme
