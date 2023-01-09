@@ -31,6 +31,7 @@ Dünya ülkelerinin mutluluk puanlarını gösterme
 Mutluluk Sıralaması en çok azalan ve artan ülkeler
 
 
+Hazırlayan :
 
 Esad Boran
 
