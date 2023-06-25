@@ -1,4 +1,4 @@
-# Patika Final Project
+# Data Analysis Project
 
 Türk Telekom &amp; TRAI Veri Bilimi ve Analitiği Practicum
 
@@ -35,5 +35,3 @@ Hazırlayan :
 
 Esad Boran
 
-
-# Patika.Dev
